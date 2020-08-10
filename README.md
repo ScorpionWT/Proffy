@@ -2,4 +2,4 @@
  
  ## O site que conecta mestres à aprendizes
  
- Projeto desenvolvido pela [Rocketseat](https://github.com/rocketseat) na semana *NLW* com o professor @maykbrito
+ Projeto desenvolvido pela [Rocketseat](https://github.com/rocketseat) na semana *NLW* com o professor 'Mayk'
