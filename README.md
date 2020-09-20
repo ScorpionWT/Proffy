@@ -1,5 +1,5 @@
 # Proffy
  
- ## O site que conecta mestres à aprendizes
+ ## The site that connects masters to apprentices
  
- Projeto desenvolvido pela [Rocketseat](https://github.com/rocketseat) na semana *NLW* com o professor [Mayk Brito](https://github.com/maykbrito)
+ Project developed by [Rocketseat](https://github.com/rocketseat) in *NextLevelWeek* with the teacher [Mayk Brito](https://github.com/maykbrito)
